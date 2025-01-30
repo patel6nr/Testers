@@ -2,6 +2,13 @@
 Overview
 Social Cipher is an immersive hacking simulation game where players use their terminal knowledge to infiltrate a university's computer systems. Through a series of security challenges, players must demonstrate technical expertise, problem-solving skills, and an understanding of cybersecurity vulnerabilities. The ultimate goal is to gain recognition for their skills and secure a prestigious role as the Chief Operating Officer (COO) of the university while also spreading awareness about cybersecurity threats such as phishing emails.
 
+# How to install/ download the game
+1. Open command prompt.
+2. Select the directory where you want to save folder.
+3. git clone https://github.com/patel6nr/Testers.git
+4. Unzip the folder and click on SocialCipher.exe
+5. Enjoy the game.
+   
 # FeedBack
 - We really need this, Please fill it out.
 - https://forms.office.com/r/Vt9cs0kDQy
